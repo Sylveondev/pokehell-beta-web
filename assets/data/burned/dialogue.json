@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "You really are a fool, aren't you..",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "flareon"
+		},
+		{
+			"expression": "talk",
+			"text": "Why put yourself in danger just so you can sing?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "flareon"
+		},
+		{
+			"expression": "talk",
+			"text": "I don't understand.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "flareon"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh, uhh.. I'm sorry... I didn't know you like heurting peepole.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "eevee"
+		},
+		{
+			"expression": "talk",
+			"text": "Ma'am I live in literal hell. Do you think I'd be nice?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "flareon"
+		},
+		{
+			"expression": "talk",
+			"text": "No..?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "eevee"
+		},
+		{
+			"expression": "talk",
+			"text": "Well. I guess I have to step it up a notch. No holding back now.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "flareon"
+		},
+		{
+			"expression": "talk",
+			"text": "It's over. You lose.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "flareon"
+		}
+	]
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				43,
+				60
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "idle",
+			"indices": [],
+			"name": "red-2-bambi idle"
+		},
+		{
+			"offsets": [
+				321,
+				110
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "red-2-bambi left"
+		},
+		{
+			"offsets": [
+				20,
+				-130
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "red-2-bambi down"
+		},
+		{
+			"offsets": [
+				30,
+				280
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singUP",
+			"indices": [],
+			"name": "red-2-bambi up"
+		},
+		{
+			"offsets": [
+				-260,
+				21
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "red-2-bambi right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/red-2-bambi",
+	"position": [
+		-10,
+		170
+	],
+	"healthicon": "red2",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-41,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

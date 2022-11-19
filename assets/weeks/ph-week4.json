@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+
+			"useless",
+			"umbreon",
+			[
+				73, 73, 73
+			]
+		],[
+
+			"forgotten",
+			"umbreon",
+			[
+				73, 73, 73
+			]
+		],[
+
+			"suppremacy",
+			"umbreon",
+			[
+				73, 73, 73
+			]
+		],[
+
+			"smile",
+			"umbreon",
+			[
+				73, 73, 73
+			]
+		]
+	],
+	
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Scared silly",
+	"weekBefore": "ph-week3",
+	"weekName": "Week 4",
+	"startUnlocked": true,
+	"pokehellWeek": true,
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

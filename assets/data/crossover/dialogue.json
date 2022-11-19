@@ -1,0 +1,109 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "theautistic1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Huh, this isn't my universe.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "eevee",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wow, what an awesome room."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "eevee",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Say, what are you doing on your laptop? I've never seen that before."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "theautistic1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ah, I was just finishing up my sprites on Flipaclip. I don't have a phone so I use bluestacks on my pc."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "theautistic1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Right now I'm working on a character called Lucario BF, suggested by my man Seth the Lucario. He has a lot of ideas. Really cool."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "eevee",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Flipaclip?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "theautistic1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Pretty neat right? I just have to finish this one and I can start working on my songs!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "eevee",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Really? Wow, so cool!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "eevee",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Can you make me a song?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "theautistic1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Maybe, my todo list is pretty full. I have a lot of suggestions, a lot from Seth the Lucario, the community, the comments section.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "theautistic1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'll probably make one for you, depends on time really. You seem like a chill dude."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "eevee",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "ooh, such interesting paintings, what are they?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "theautistic1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "My friends, they come from different universes. I could call up a few if you'd like."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "eevee",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "I'd love to meet them!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "theautistic1",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alr then, lemme just save Lucario BF real quick and I'll hit 'em up."
+		}
+	]
+}

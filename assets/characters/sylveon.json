@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				9
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				99,
+				-15
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				46
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				93,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "swing",
+			"loop": false,
+			"name": "swing"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sylveon",
+	"position": [
+		180,
+		340
+	],
+	"healthicon": "sylveon",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		143,
+		255
+	],
+	"camera_position": [
+		-180,
+		20
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}
